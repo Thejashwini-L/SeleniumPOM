@@ -4,9 +4,9 @@
   <test thread-count="5" name="Test">
     <classes>
       <!--class name="project1_testfile.Browser_Launch"/>-->
-      <class name="project1_testfile.Project1_Testcase2"/>
-      <!--class name="project1_testfile.Project1_Testcase3"/>
-      <class name="project1_testfile.Project1_Testcase1"/>-->
+      <!--class name="project1_testfile.Project1_Testcase2"/>-->
+      <!--class name="project1_testfile.Project1_Testcase3"/>-->
+      <class name="project1_testfile.Project1_Testcase1"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
